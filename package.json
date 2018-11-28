@@ -1,0 +1,26 @@
+{
+  "name": "geaviation",
+  "version": "0.0.1",
+  "private": "true",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.0.0alpha4",
+    "nib": "^1.0.4",
+    "stylus": "^0.49.1",
+    "jade": "^2.0.3"
+  },
+  "description": "Basic Express Site ==================",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "jyothi",
+  "license": "UNLICENSED"
+}
